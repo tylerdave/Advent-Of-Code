@@ -1,2 +1,7 @@
 # Advent-Of-Code
-My Advent of Code solutions because why not?
+
+These are my [Advent of Code](http://adventofcode.com/) solutions.
+
+## License (Unlicense)
+
+See `LICENSE` file for details.
